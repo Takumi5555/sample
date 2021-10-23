@@ -1,0 +1,5 @@
+n = list(input())
+a = str(10 - int(n[0]))
+b = str(10 - int(n[1]))
+c = str(10 - int(n[2]))
+print(int(a + b + c))
